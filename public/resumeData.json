@@ -1,142 +1,100 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Aaron Wesolek",
+    "description":"I am an aspiring web development engineer.  If you would like to learn more about me, please check out this page and feel free to contact me",
+    "image":"Aaron.jpg",
+    "bio":"I am currently learning Full Stack Web Development from Lambda School.  I can develop web pages in HTML, CSS (css less) JavaScript, ReactJS, and NodeJS",
+    "contactmessage":"If you are interested in utilizing my skills for your website, learning more about my projects, or have any questions, please feel free to contact me here!",
+    "email": "maxwes13@gmail.com",
+    "phone": "517-290-0354",
+    "github":"https://github.com/maxwes13",
+    "project":"https://github.com/maxwes13/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"St. Louis",
+      "state":"MO",
+      "zip": "63128"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/aaron-wesolek-48a7121b5/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/maxwes13",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Michigan State University",
+        "degree":"Bachelor's of Science in Food Industry Management",
+        "graduated":"August 2011",
+        "description":"Business, Marketing, Financial, Supply Chain"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Lambda School",
+        "degree":"Full Stack Web Development",
+        "graduated":"May 2020 - May 2021",
+        "description":"HTML, CSS, CSS Less, JavaScript, and React.  Will be learning Python."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Anacomp",
+        "title":"Document Scanner",
+        "years":"December 2018 - May 2019",
+        "description":"I was a high-performance employee, scanning documents into the cloud for a VA contracted company. I scanned a total of 35 to 40 thousand documents each shift, trained new employees on the scanning machines and indexed the boxes onto the ORCA Scanning database."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Shamrock Painting Company",
+        "title":"Co-Owner",
+        "years":"June 2016 - July 2018",
+        "description":"I was responsible for day-to-day business operations, training new employees, managing supplies, and speaking with customers. Had to work with a tight budget and timeline, while keeping constant contact with the customers."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"HTML",
+        "level":"90%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"JavaScript",
+        "level":"75%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"ReactJS",
+        "level":"75%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Redux",
+        "level":"40%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Spotiy Song Suggestor Marketing Page",
+        "category":"Landing Page for a group website",
+        "image":"Marketing.png",
+        "url":"https://adoring-newton-7837ec.netlify.app/"
       },
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
