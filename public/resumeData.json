@@ -85,10 +85,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Spotiy Song Suggestor Marketing Page",
+        "title":"Spotify Song Suggestor Marketing Page",
         "category":"Landing Page for a group website",
         "image":"Marketing.png",
         "url":"https://adoring-newton-7837ec.netlify.app/"
+      },
+      {
+        "title":"NASA Photo of the Day",
+        "category":"Random pictures from NASA website",
+        "image":"NASA.png",
+        "url":"https://github.com/maxwes13/nasa-photo-of-the-day/tree/Aaron-Wesolek"
       }
     ]
   }
