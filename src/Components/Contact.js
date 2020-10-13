@@ -31,7 +31,7 @@ class Contact extends Component {
 
             </div>
 
-         </div>
+         {/* </div>
 
          <div className="row">
             <div className="eight columns">
@@ -73,7 +73,7 @@ class Contact extends Component {
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
            </div>
-
+ */}
 
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
